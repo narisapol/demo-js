@@ -1,0 +1,12 @@
+{
+  "name": "example_js",
+  "version": "1.0.0",
+  "description": "example_js",
+  "main": "index.js",
+  "repository": "https://github.com/narisapol/demo-js.git",
+  "author": "narisapol <narisapol@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
